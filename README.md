@@ -88,7 +88,7 @@ https://sites.google.com/site/amigo2toolbox/
 	-   *Run_OEDModelSelection_Master.m*, Matlab script used to run OEDModelSelection_Master.m or OEDModelSelection_Master_ShortIter.m with desired inputs. 
 
 
-## The data for the *Stability Analysis* is organised in the following subfolders (BiStability_Analysis Directory):
+## The data for the *Stability Analysis* is organised in the following subfolders (Stability_Analysis Directory):
 
 -   *AnalyticalSteadyState*, directory containing the Matlab function to compute the analytical steady-state for the three models. 
 -   *CostUtilityComputation*, directory containing Python and Matlab files used for the analysis of the results of the section and computation of the Utility/Cost function for a series of given inputs for the competing models. 
