@@ -98,11 +98,11 @@ https://sites.google.com/site/amigo2toolbox/
 
 ## The data for the *Paper Figures* is organised in the following subfolders (Images Directory):
 
--   *Figure2d0_Size.ipynb*, python script used to generate figure 2 from the paper. 
--   *Figure3Sketch.ipynb*, python script used to generate figure 3 from the paper. 
--   *Figure5Optimisation2d0.ipynb*, python script used to generate figure 5 from the paper. 
--   *Figure6SketchVersion2.ipynb*, python script used to generate figure 6 from the paper. 
--   *FigureS1Sketch.ipynb*, python script used to generate supplementary figure 1 from the paper. 
+-   *Figure2.ipynb*, python script used to generate figure 2 from the paper. 
+-   *Figure3.ipynb*, python script used to generate figure 3 from the paper. 
+-   *Figure5.ipynb*, python script used to generate figure 5 from the paper. 
+-   *Figure6.ipynb*, python script used to generate figure 6 from the paper. 
+-   *FigureS1S.ipynb*, python script used to generate supplementary figure 1 from the paper. 
 
 
 To run the scripts plase place all the scripts and data required in the R, Matlab or Jupyter Notebook working directory. 
