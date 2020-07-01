@@ -11,7 +11,7 @@ https://github.com/fmfn/BayesianOptimization
 ## For the Matlab toolbox AMIGO2, refer to: 
 https://sites.google.com/site/amigo2toolbox/
 
-## The data for the *Bayesian* case is organised in the following subfolders (Bayesian Directory):
+## The data for the *Bayesian* case is organised in the following subfolders (Bayesian_MS Directory):
 
 -	**Inference:**
 	- *ODE_Model1.stan*, stan statistical model script with Model 1 (Lugagne et.al.) from the paper used to perform Bayesian Inference of the experimental data from [1].
@@ -56,7 +56,7 @@ https://sites.google.com/site/amigo2toolbox/
 	  - *CompareMultiplicativeResults.ipynb*, Python script used to compare the Bayesian and Frequentist results in a Bayesian scheme (use to assess differences between the two procedures). 
       
 	  
-## The data for the *Frequentist* case is organised in the following subfolders (Frequentist Directory):  
+## The data for the *Frequentist* case is organised in the following subfolders (Frequentist_MS Directory):  
 
 -	**Inference:**
 	- *Models*, directory containing all the Matlab/AMIGO functions containing the mathematical models of the Toggle Switch.
