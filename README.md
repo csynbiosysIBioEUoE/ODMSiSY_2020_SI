@@ -1,17 +1,17 @@
 # Optimally Designed Model Selection in Synthetic Biology
 
-## Here the scripts used to generate, analyse and visualise the data presented in the paper are made available. 
+### Here the scripts used to generate, analyse and visualise the data presented in the paper are made available. 
 
-## The use of the scripts requires the RStan Package, available at the link: 
+### The use of the scripts requires the RStan Package, available at the link: 
 https://cran.r-project.org/web/packages/rstan/index.html 
 
-## And the use of the Bayesian Optimisation package available at the link: 
+### And the use of the Bayesian Optimisation package available at the link: 
 https://github.com/fmfn/BayesianOptimization
 
-## For the Matlab toolbox AMIGO2, refer to: 
+### For the Matlab toolbox AMIGO2, refer to: 
 https://sites.google.com/site/amigo2toolbox/
 
-## The data for the *Bayesian* case is organised in the following subfolders (Bayesian Directory):
+## The data for the *Bayesian* case is organised in the following subfolders (Bayesian_MS Directory):
 
 -	**Inference:**
 	- *ODE_Model1.stan*, stan statistical model script with Model 1 (Lugagne et.al.) from the paper used to perform Bayesian Inference of the experimental data from [1].
@@ -56,7 +56,7 @@ https://sites.google.com/site/amigo2toolbox/
 	  - *CompareMultiplicativeResults.ipynb*, Python script used to compare the Bayesian and Frequentist results in a Bayesian scheme (use to assess differences between the two procedures). 
       
 	  
-## The data for the *Frequentist* case is organised in the following subfolders (Frequentist Directory):  
+## The data for the *Frequentist* case is organised in the following subfolders (Frequentist_MS Directory):  
 
 -	**Inference:**
 	- *Models*, directory containing all the Matlab/AMIGO functions containing the mathematical models of the Toggle Switch.
@@ -98,18 +98,18 @@ https://sites.google.com/site/amigo2toolbox/
 
 ## The data for the *Paper Figures* is organised in the following subfolders (Images Directory):
 
--   *Figure2d0_Size.ipynb*, python script used to generate figure 2 from the paper. 
--   *Figure3Sketch.ipynb*, python script used to generate figure 3 from the paper. 
--   *Figure5Optimisation2d0.ipynb*, python script used to generate figure 5 from the paper. 
--   *Figure6SketchVersion2.ipynb*, python script used to generate figure 6 from the paper. 
--   *FigureS1Sketch.ipynb*, python script used to generate supplementary figure 1 from the paper. 
+-   *Figure2.ipynb*, python script used to generate figure 2 from the paper. 
+-   *Figure3.ipynb*, python script used to generate figure 3 from the paper. 
+-   *Figure5.ipynb*, python script used to generate figure 5 from the paper. 
+-   *Figure6.ipynb*, python script used to generate figure 6 from the paper. 
+-   *FigureS1S.ipynb*, python script used to generate supplementary figure 1 from the paper. 
 
 
 To run the scripts plase place all the scripts and data required in the R, Matlab or Jupyter Notebook working directory. 
 
 The data associated with these scripts can be found at:
-TO MODIFY!
-https://datasync.ed.ac.uk/index.php/s/oyrtYQSCoARaxhR (pwd: IAC_CIBCB2019_SI_Data)
+
+https://datasync.ed.ac.uk/index.php/s/wh5dQkXKmk594Ip (pwd: ODMSiSY_2020_SI_Data)
 
 References:
 
