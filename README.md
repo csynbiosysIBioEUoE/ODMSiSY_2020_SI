@@ -8,6 +8,9 @@ https://cran.r-project.org/web/packages/rstan/index.html
 ## And the use of the Bayesian Optimisation package available at the link: 
 https://github.com/fmfn/BayesianOptimization
 
+## For the Matlab toolbox AMIGO2, refer to: 
+https://sites.google.com/site/amigo2toolbox/
+
 ## The data for the *Bayesian* case is organised in the following subfolders (Bayesian Directory):
 
 -	**Inference:**
