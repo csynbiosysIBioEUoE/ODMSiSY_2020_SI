@@ -108,8 +108,8 @@ https://sites.google.com/site/amigo2toolbox/
 To run the scripts plase place all the scripts and data required in the R, Matlab or Jupyter Notebook working directory. 
 
 The data associated with these scripts can be found at:
-TO MODIFY!
-https://datasync.ed.ac.uk/index.php/s/oyrtYQSCoARaxhR (pwd: IAC_CIBCB2019_SI_Data)
+
+https://datasync.ed.ac.uk/index.php/s/wh5dQkXKmk594Ip (pwd: ODMSiSY_2020_SI_Data)
 
 References:
 
