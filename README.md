@@ -104,6 +104,11 @@ https://sites.google.com/site/amigo2toolbox/
 -   *Figure6.ipynb*, python script used to generate figure 6 from the paper. 
 -   *FigureS1S.ipynb*, python script used to generate supplementary figure S1 from the paper. 
 
+## The data for an analysis on the *prior shape effect* is organised in the following subfolders (PriorShapeEffect Directory):
+
+-   *ODE_Model3_WIP.stan*, stan script to perform multiexperimental Bayesian inference using weakly informative priors. 
+-   *PosteriorKernelDensitiesCovariance.ipynb*, python script used to plot all the bi-variate kernel densities for the two posteriors (weakly and highly informative) and compute the matrix norm of correlation and covariance matrices.
+-   *PosteriorChecks.ipynb*, Julia script with different metrics and plots to assess the two posteriors (weakly and highly informative). 
 
 To run the scripts place all them and the required data in the R, Matlab or Jupyter Notebook working directory. 
 
