@@ -94,6 +94,3 @@ source('D:/PhD/GitHub/FOSBE2019_Paper/Predictions&Analysis/PostPredCheckSimulM3.
 PPCSimul3(fileName, "ALL_Model3.stan")
 
 
-
-
-

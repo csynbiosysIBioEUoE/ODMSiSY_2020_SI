@@ -63,5 +63,3 @@ GMM1 <- function(experiment){
   
 }
 
-
-

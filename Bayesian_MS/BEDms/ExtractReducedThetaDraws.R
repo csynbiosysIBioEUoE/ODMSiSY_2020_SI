@@ -129,3 +129,4 @@ for(i in 1:400){
 
 fn <- paste("drawsRedT_", exp, ".csv", sep = "")
 write.csv(drawsRed, file=fn, row.names=FALSE)
+
